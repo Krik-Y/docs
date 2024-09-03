@@ -19,10 +19,18 @@
     {
       "name": "联系客服",
       "url": "mailto:hi@mintlify.com"
+    },
+    {
+      "name": "联系销售",
+      "url": "mailto:hi@mintlify.com"
     }
   ],
   "topbarCtaButton": {
     "name": "控制台",
+    "url": "https://dashboard.mintlify.com"
+  },
+   "topbarCtaButton": {
+    "name": "体验中心",
     "url": "https://dashboard.mintlify.com"
   },
   "tabs": [
