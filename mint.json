@@ -29,10 +29,6 @@
     "name": "控制台",
     "url": "https://dashboard.mintlify.com"
   },
-   "topbarCtaButton": {
-    "name": "体验中心",
-    "url": "https://dashboard.mintlify.com"
-  },
   "tabs": [
     {
       "name": "接口文档",
@@ -58,7 +54,7 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "快速开始",
       "pages": [
         "introduction",
         "quickstart",
@@ -66,7 +62,7 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "示例",
       "pages": [
         "essentials/markdown",
         "essentials/code",
@@ -77,13 +73,13 @@
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "接口文档",
       "pages": [
         "api-reference/introduction"
       ]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "请求示例",
       "pages": [
         "api-reference/endpoint/get",
         "api-reference/endpoint/create",
