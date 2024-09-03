@@ -43,23 +43,6 @@
       "url": "api-reference"
     }
   ],
-  "anchors": [
-    {
-      "name": "使用指南",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    },
-    {
-      "name": "社区手册",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
-    }
-  ],
   "navigation": [
     {
       "group": "快速开始",
@@ -100,4 +83,21 @@
     "github": "https://github.com/mintlify",
     "linkedin": "https://www.linkedin.com/company/mintsearch"
   }
+  "anchors": [
+    {
+      "name": "使用指南",
+      "icon": "book-open-cover",
+      "url": "https://mintlify.com/docs"
+    },
+    {
+      "name": "社区手册",
+      "icon": "slack",
+      "url": "https://mintlify.com/community"
+    },
+    {
+      "name": "博客文章",
+      "icon": "newspaper",
+      "url": "https://mintlify.com/blog"
+    }
+  ]
 }
