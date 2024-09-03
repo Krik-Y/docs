@@ -33,6 +33,14 @@
     {
       "name": "接口文档",
       "url": "api-reference"
+    },
+    {
+      "name": "更新日志",
+      "url": "api-reference"
+    },
+    {
+      "name": "提示模板",
+      "url": "api-reference"
     }
   ],
   "anchors": [
